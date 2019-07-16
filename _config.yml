@@ -20,11 +20,12 @@ linkedin_username: shahruqsarfaraz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-• A 24-year-old graduate from India with an MSc in Astrophysics (with a research thesis in Machine Learning/Deep Learning for Astronomy) with 18 months of experience with handling data. 
-• I am seeking a role in Data – Analyst/Data/Pricing Analyst, Data Scientist or any position within an organization which can let me handle data, summon insights and pitch them out using my presentation and communication skills.
-• I have an intermediate amount of experience in Data Analysis and Machine Learning with R scripting and Python programming language. 
-• The highlight of my education so far is demonstrating and implementing the importance of Machine Learning in the field of Astronomy.
-• I have maintained, implemented and described ‘root-cause analysis’ using text mining and ML for a real-life dataset. 
+
+1. A 24-year-old graduate from India with an MSc in Astrophysics (with a research thesis in Machine Learning/Deep Learning for Astronomy) with 18 months of experience with handling data. 
+2. I am seeking a role in Data – Analyst/Data/Pricing Analyst, Data Scientist or any position within an organization which can let me handle data, summon insights and pitch them out using my presentation and communication skills.
+3. I have an intermediate amount of experience in Data Analysis and Machine Learning with R scripting and Python programming language. 
+4. The highlight of my education so far is demonstrating and implementing the importance of Machine Learning in the field of Astronomy.
+5. I have maintained, implemented and described ‘root-cause analysis’ using text mining and ML for a real-life dataset. 
 
 # Projects Section
 # projects_title: Projects
